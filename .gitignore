@@ -1,0 +1,3 @@
+#files with private info
+.client_secrets.json
+.discordbot.py-oauth2.json
